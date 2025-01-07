@@ -1,0 +1,12 @@
+element.style {
+    word-wrap: break-word;
+    white-space-collapse: preserve;
+    text-wrap-mode: wrap;
+}
+
+pre {
+    display: block;
+    font-family: monospace;
+    unicode-bidi: isolate;
+    margin: 1em 0px;
+}
